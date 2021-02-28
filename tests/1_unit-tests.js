@@ -27,7 +27,6 @@ const assert = chai.assert;
     //   assert.fail({ value: 'truthy' }, 'A truthy object is NOT TRUE (neither is false...)');
     // });
   });
-});
 // });
 
   // -----------------------------------------------------------------------------
